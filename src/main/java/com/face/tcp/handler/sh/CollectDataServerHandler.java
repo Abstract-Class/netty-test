@@ -1,7 +1,4 @@
-/*
- * Copyright (c) 2003,成都天奥信息科技有限公司
- * All rights reserved.
- */
+
 package com.face.tcp.handler.sh;
 
 import com.face.tcp.constant.Common;
